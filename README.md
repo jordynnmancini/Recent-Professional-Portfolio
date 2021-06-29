@@ -1,7 +1,7 @@
 # Recent-Professional-Portfolio
 
 ## Description
-This is my most up-to-date portfolio showcasing my work. It contains 6 examples of homework assignments & group projects that have been developed and deployed. I used a template from HTML5 UP and added my own spin on it. You can view my portfolio here: https://jordynnmancini.github.io/Recent-Professional-Portfolio/
+This is my most up-to-date portfolio showcasing my work. It contains 6 examples of homework assignments & group projects that have been developed and deployed. I used a template from HTML5 UP and added my own spin on it. You can view my portfolio here: https://jordynnmancini.github.io/myportfolio/
 
 ![demo](./assets/demo.gif)
 
